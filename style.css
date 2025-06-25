@@ -1,0 +1,76 @@
+.attribution { 
+    font-size: 15px;
+    position: absolute;
+    bottom: 1rem;
+    color: white;
+}
+.attribution a { color: hsl(228, 45%, 44%); }
+
+body{
+    display: grid;
+    place-items: center;
+    min-height: 100vh;
+    gap: 0;
+    background-color: hsl(0, 0%, 8%);
+    overflow: hidden;
+}
+
+.container{
+    font-family: "Inter", sans-serif;
+    font-weight: 600;
+    font-size: 14px;
+    text-align: center;
+    width: 380px;
+    height: fit-content;
+    background-color: hsl(0, 0%, 12%);
+    border-radius: 2%;
+}
+
+.profiles{
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    margin: 0 30px 35px 30px;
+}
+
+h1{
+    color: hsl(0, 0%, 100%);
+    font-size: 24px;
+    padding-bottom: 0;
+    margin: 0;
+}
+
+.location{
+    color: hsl(75, 94%, 57%);
+    margin: 10px 0 13px 0;
+}
+
+.intro{
+    color: white;
+    margin: 20px 0 20px 0;
+    font-weight: 400;
+}
+
+.profile_img img{
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    object-fit: cover;
+    margin: 40px 0 22px 0;
+}
+
+.btn{
+    font-weight: 700;
+    border-radius: 9px;
+    background-color: hsl(0, 0%, 20%);
+    color: white;
+    padding: 0.75rem 1.25rem;
+    text-decoration: none;
+    transition: background-color 0.2s ease;
+    cursor: pointer;
+}
+
+.btn:hover{
+    background-color: hsl(75, 94%, 57%);
+    color: hsl(0, 0%, 8%)
+}
