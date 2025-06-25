@@ -8,7 +8,7 @@ This is a solution to the [Social links profile challenge on Frontend Mentor](ht
 
 # Links
 
-- [Live Demo]() 
+- [Live Demo](https://shreya-og.github.io/Front-end-Challenge-3/) 
 - [Frontend Mentor Challenge](https://www.frontendmentor.io/challenges/social-links-profile-UG32l9m6dQ)
 
 # Features
