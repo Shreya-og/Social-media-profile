@@ -1,6 +1,6 @@
-# Frontend Mentor - Social links profile solution
+# Social links profile landing page
 
-This is a solution to the [Social links profile challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/social-links-profile-UG32l9m6dQ). This is a simple responsive "Social Links Profile Card" built using HTML and CSS.
+This is a simple responsive "Social Links Profile Card" landing page built using HTML and CSS.
 
 # Preview
 
@@ -8,9 +8,8 @@ This is a solution to the [Social links profile challenge on Frontend Mentor](ht
 
 # Links
 
-- [Live Demo](https://shreya-og.github.io/Front-end-Challenge-3/) 
-- [Frontend Mentor Challenge](https://www.frontendmentor.io/challenges/social-links-profile-UG32l9m6dQ)
-
+- [Live Demo](https://shreya-og.github.io/Front-end-Challenge-3/)
+  
 # Features
 
 - Responsive design
