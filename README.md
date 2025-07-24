@@ -8,7 +8,7 @@ This is a simple responsive "Social Links Profile Card" landing page built using
 
 # Links
 
-- [Live Demo](https://shreya-og.github.io/EliteTechIntern-task-1/)
+- [Live Demo]( https://shreya-og.github.io/Social-media-profile/)
   
 # Features
 
